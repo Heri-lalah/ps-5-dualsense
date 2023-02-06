@@ -70,17 +70,17 @@ ul {
     .card .card-body .main {
       margin-top: 10px; }
       .card .card-body .main section {
-        margin-bottom: 32px; }
+        margin-bottom: 31px; }
         .card .card-body .main section h1 {
           font-size: 13px;
           font-weight: lighter;
-          letter-spacing: 3px;
+          letter-spacing: 2px;
           padding: 0;
           margin: 0; }
         .card .card-body .main section p {
           font-size: 11px;
           padding: 0;
-          margin: 9px 0 0 0;
+          margin: 12px 0 0 0;
           font-weight: lighter;
           color: #edecec;
           opacity: .6; }
