@@ -7,7 +7,7 @@ html, body {
   font-family: "Roboto", sans-serif; }
 
 .wrapper {
-  width: 280px;
+  width: 269px;
   margin: 0 auto; }
 
 ul {
@@ -25,12 +25,12 @@ ul {
   position: relative;
   overflow: hidden; }
   .card img {
-    width: 300px;
+    width: 294px;
     -webkit-transform: rotate(-90deg);
             transform: rotate(-90deg);
     position: absolute;
-    bottom: 46%;
-    left: 25%; }
+    bottom: 45.8%;
+    left: 23.5%; }
   .card .card-header {
     display: -webkit-box;
     display: -ms-flexbox;

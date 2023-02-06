@@ -7,7 +7,7 @@ html, body {
     font-family: $primaryfont;
 }
 .wrapper{
-    width: 280px;
+    width: 269px;
     margin: 0 auto;
 }
 ul{
@@ -24,11 +24,11 @@ ul{
     position: relative;
     overflow: hidden;
     img{
-        width: 300px;
+        width: 294px;
         transform: rotate(-90deg);
         position: absolute;
-        bottom: 46%;
-        left: 25%;
+        bottom: 45.8%;
+        left: 23.5%;
     }
     .card-header{
         display: flex;
