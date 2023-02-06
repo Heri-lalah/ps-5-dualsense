@@ -14,7 +14,7 @@ ul {
   list-style: none; }
 
 .card {
-  min-width: 320px;
+  width: 320px;
   height: 644px;
   border-radius: 40px;
   color: #edecec;
