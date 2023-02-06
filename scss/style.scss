@@ -15,6 +15,8 @@ ul{
 }
 .card {
     width: 320px;
+    min-width: 320px;
+    max-width: 320px;
     height: 644px;
     border-radius: 40px;
     color: $white;
@@ -57,7 +59,7 @@ ul{
         }
     }
     .card-body{
-        background-image: linear-gradient(to bottom,$lightblue,$purple 95%);
+        background-image: linear-gradient(to bottom, $blue, $purple);
         height: 21rem;
         .main{
             margin-top: 10px;

@@ -15,6 +15,8 @@ ul {
 
 .card {
   width: 320px;
+  min-width: 320px;
+  max-width: 320px;
   height: 644px;
   border-radius: 40px;
   color: #edecec;
@@ -58,8 +60,8 @@ ul {
         padding: 4px;
         border-radius: 100%; }
   .card .card-body {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#61c3ef), color-stop(95%, #484de9));
-    background-image: linear-gradient(to bottom, #61c3ef, #484de9 95%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3d9aea), to(#484de9));
+    background-image: linear-gradient(to bottom, #3d9aea, #484de9);
     height: 21rem; }
     .card .card-body .main {
       margin-top: 10px; }
